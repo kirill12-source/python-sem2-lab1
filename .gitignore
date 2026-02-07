@@ -1,9 +1,5 @@
 # MkDocs site generation .gitignore
 
-# Сгенерированный сайт
-site/
-*.html
-
 # Временные файлы MkDocs
 .cache/
 
