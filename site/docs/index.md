@@ -1,20 +1,36 @@
-# Welcome to MkDocs
+# Добро пожаловать в моё портфолио!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Обо мне
 
-## Доброе утро
+Я - студент первого курса Университета ИТМО, обучаюсь на программе **"Нейротехнологии и программирование"**.
 
-## Commands
+Мои основные интересы лежат в области: <br>
+- Искусственного интеллекта и машинного обучения <br>
+- Нейронных сетей и нейротехнологий <br>
+- Full-stack разработки <br>
+- Анализа данных <br>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Технологический стек
 
-## Project layout
+В ходе обучения и собственной практики я работал со следующими технологиями:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| Область | Технологии |
+|---------|------------|
+| **Языки программирования** | Python, JavaScript, Java |
+| **Веб-разработка** | HTML, CSS |
+| **Базы данных** | SQL |
+| **Инструменты** | Git, MkDocs, различные библиотеки Python |
 
+## Цели
+
+На ближайший год я ставлю перед собой задачи: <br>
+1. Углубить знания в области нейронных сетей <br>
+2. Освоить фреймворки для ML/DL (PyTorch, TensorFlow) <br>
+3. Разработать несколько полноценных проектов в сфере нейротехнологий <br>
+4. Участвовать в хакатонах и научных конкурсах <br>
+
+## Контакты
+
+- **Email**: kirillearn2218@gamil.com
+- **GitHub**: [KirillPetukhov1](https://github.com/KirillPetukhov1)
+- **Telegram**: @kirillOrgnl
